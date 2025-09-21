@@ -1,0 +1,73 @@
+# Executable files
+*.exe
+*.out
+clox
+clox.exe
+
+# Object files
+*.o
+*.obj
+
+# Build directory
+build/
+bin/
+obj/
+
+# Debug files
+*.pdb
+*.ilk
+
+# Static and dynamic libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Archive files
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# IDE and editor files
+.vscode/
+.vs/
+*.vcxproj*
+*.sln
+*.suo
+*.user
+*.swp
+*.swo
+*~
+.idea/
+
+# OS specific files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Core dumps
+core
+*.core
+
+# Coverage files
+*.gcov
+*.gcda
+*.gcno
+
+# Profiling files
+gmon.out
+
+# Dependencies
+deps/
+vendor/
+
+# Test outputs
+test_results/
+*.test
